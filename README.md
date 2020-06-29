@@ -16,6 +16,8 @@ name => dev.sql
 ----admin panel--
 
 http://localhost/dev/user/login
+
 email => dev@gmail.com
+
 password => dev@gmail.com
 
