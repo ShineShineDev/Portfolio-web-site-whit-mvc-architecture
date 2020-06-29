@@ -2,18 +2,11 @@
 
 #Guidelines 
 
-----stack one ---
-
 open web server and mysql (xmpp or wamp)
 
-
----stack two--
-
 import database 
-name => dev.sql
 
-
-----admin panel--
+#admin panel 
 
 http://localhost/dev/user/login
 
