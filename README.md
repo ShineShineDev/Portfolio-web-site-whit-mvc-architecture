@@ -1,6 +1,6 @@
 # Portfolio-web-site-whit-mvc-architecture
 
-#Guidelines 
+Guidelines 
 ----stack one ---
 open web server and mysql (xmpp or wamp)
 ---------------------------------
