@@ -1,12 +1,12 @@
 # Portfolio-web-site-whit-mvc-architecture
 
-#Guidelines 
+## Guidelines 
 
 open web server and mysql (xmpp or wamp)
 
 import database 
 
-#admin panel 
+## admin panel 
 
 http://localhost/dev/user/login
 
