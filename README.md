@@ -2,7 +2,7 @@
 
 ## Guidelines 
 
--open web server and mysql (xmpp or wamp)
+- open web server and mysql (xmpp or wamp)
 
 - import database 
 
