@@ -2,15 +2,15 @@
 
 ## Guidelines 
 
-open web server and mysql (xmpp or wamp)
+-open web server and mysql (xmpp or wamp)
 
-import database 
+- import database 
 
 ## admin panel 
 
-http://localhost/dev/user/login
+- http://localhost/dev/user/login
 
-email => dev@gmail.com
+- email => dev@gmail.com
 
-password => dev@gmail.com
+- password => dev@gmail.com
 
